@@ -1,0 +1,9 @@
+ .header{
+        background-color:#D000;
+         color:black;
+            }
+.main{
+display:flex;
+justify-content:center;
+flex-wrap:wrap ;
+}
